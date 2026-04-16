@@ -27,10 +27,10 @@ Built to handle research-grade analytical datasets, the platform dynamically ana
 
 ## 📸 Screenshots
 
-![Dashboard Overview](docs/dashboard_placeholder1.png)
+<img width="1906" height="908" alt="image" src="https://github.com/user-attachments/assets/0c7b876e-50e6-4645-bae4-b5e8ae281eea" />
 *Detailed interactive mapping of earthquake magnitudes using Leaflet clusters & UI Panels.*
 
-![Regional Comparison](docs/dashboard_placeholder2.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97ac53ad-79b2-47e7-bad3-36889518df86" />
 *Granular analytics parsing 30-day cumulative rainfall and slope topography models.*
 
 ---
